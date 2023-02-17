@@ -1,0 +1,472 @@
+01/08/22 (19:09:07) | ERROR: Exception while getting cpu frequency!
+01/08/22 (19:09:07) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+27/08/22 (18:35:16) | ERROR: Exception while getting cpu frequency!
+27/08/22 (18:35:16) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+15/10/22 (14:11:26) | ERROR: Exception while getting cpu frequency!
+15/10/22 (14:11:26) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+15/10/22 (16:36:50) | ERROR: Exception while getting cpu frequency!
+15/10/22 (16:36:50) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+15/10/22 (16:37:04) | ERROR: Exception while getting cpu frequency!
+15/10/22 (16:37:04) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+16/10/22 (09:45:17) | ERROR: Exception while getting cpu frequency!
+16/10/22 (09:45:17) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+20/10/22 (16:48:37) | ERROR: Exception while getting cpu frequency!
+20/10/22 (16:48:37) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+20/10/22 (17:50:59) | ERROR: Exception while getting cpu frequency!
+20/10/22 (17:50:59) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+26/10/22 (20:52:49) | ERROR: Exception while getting cpu frequency!
+26/10/22 (20:52:49) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+28/10/22 (19:15:43) | ERROR: Exception while getting cpu frequency!
+28/10/22 (19:15:43) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+28/10/22 (19:20:27) | ERROR: Exception while getting cpu frequency!
+28/10/22 (19:20:27) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+28/10/22 (19:25:07) | ERROR: Exception while getting cpu frequency!
+28/10/22 (19:25:07) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+24/11/22 (22:47:58) | ERROR: Exception while getting cpu frequency!
+24/11/22 (22:47:58) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+25/11/22 (16:15:55) | ERROR: Exception while getting cpu frequency!
+25/11/22 (16:15:55) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+25/11/22 (16:16:01) | ERROR: Data collection thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 2965, in _runner
+    else: Draw.out()
+  File "/opt/homebrew/bin/bpytop", line 1091, in out
+    cls.now(out)
+  File "/opt/homebrew/bin/bpytop", line 1039, in now
+    print(*args, sep="", end="", flush=True)
+OSError: [Errno 5] Input/output error
+27/11/22 (20:37:30) | ERROR: Exception while getting cpu frequency!
+27/11/22 (20:37:30) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+27/11/22 (20:40:02) | ERROR: Exception while getting cpu frequency!
+27/11/22 (20:40:02) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+27/11/22 (20:48:54) | ERROR: Exception while getting cpu frequency!
+27/11/22 (20:48:54) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+27/11/22 (20:48:59) | ERROR: The read operation timed out
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 5029, in _checker
+    with urllib.request.urlopen("https://github.com/aristocratos/bpytop/raw/master/bpytop.py", timeout=5) as source: # type: ignore
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1352, in do_open
+    r = h.getresponse()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+27/11/22 (21:10:04) | ERROR: Exception while getting cpu frequency!
+27/11/22 (21:10:04) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+27/11/22 (21:19:46) | ERROR: Exception while getting cpu frequency!
+27/11/22 (21:19:46) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+02/02/23 (17:13:00) | ERROR: Exception while getting cpu frequency!
+02/02/23 (17:13:00) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+02/02/23 (17:13:08) | ERROR: Exception while getting cpu frequency!
+02/02/23 (17:13:08) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+05/02/23 (08:43:23) | ERROR: Exception while getting cpu frequency!
+05/02/23 (08:43:23) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+10/02/23 (05:58:56) | ERROR: Exception while getting cpu frequency!
+10/02/23 (05:58:56) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+10/02/23 (05:59:06) | ERROR: <urlopen error timed out>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1447, in connect
+    super().connect()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 941, in connect
+    self.sock = self._create_connection(
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 845, in create_connection
+    raise err
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 833, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 5029, in _checker
+    with urllib.request.urlopen("https://github.com/aristocratos/bpytop/raw/master/bpytop.py", timeout=5) as source: # type: ignore
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 525, in open
+    response = meth(req, response)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 557, in error
+    result = self._call_chain(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 749, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
+10/02/23 (06:03:40) | ERROR: Exception while getting cpu frequency!
+10/02/23 (06:03:40) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+10/02/23 (06:03:50) | ERROR: <urlopen error timed out>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1447, in connect
+    super().connect()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 941, in connect
+    self.sock = self._create_connection(
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 845, in create_connection
+    raise err
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 833, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 5029, in _checker
+    with urllib.request.urlopen("https://github.com/aristocratos/bpytop/raw/master/bpytop.py", timeout=5) as source: # type: ignore
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 525, in open
+    response = meth(req, response)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 557, in error
+    result = self._call_chain(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 749, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
+10/02/23 (06:03:53) | ERROR: Data collection thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 2965, in _runner
+    else: Draw.out()
+  File "/opt/homebrew/bin/bpytop", line 1091, in out
+    cls.now(out)
+  File "/opt/homebrew/bin/bpytop", line 1039, in now
+    print(*args, sep="", end="", flush=True)
+OSError: [Errno 5] Input/output error
+10/02/23 (06:34:14) | ERROR: Exception while getting cpu frequency!
+10/02/23 (06:34:14) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+10/02/23 (06:34:27) | ERROR: Exception while getting cpu frequency!
+10/02/23 (06:34:27) | ERROR: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 3080, in _collect
+    if CONFIG.show_cpu_freq and hasattr(psutil.cpu_freq(), "current"):
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/__init__.py", line 1859, in cpu_freq
+    ret = _psplatform.cpu_freq()
+  File "/opt/homebrew/Cellar/bpytop/1.0.68/libexec/lib/python3.10/site-packages/psutil/_psosx.py", line 180, in cpu_freq
+    curr, min_, max_ = cext.cpu_freq()
+FileNotFoundError: [Errno 2] No such file or directory (originated from sysctlbyname('hw.cpufrequency'))
+10/02/23 (06:34:37) | ERROR: <urlopen error timed out>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1447, in connect
+    super().connect()
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 941, in connect
+    self.sock = self._create_connection(
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 845, in create_connection
+    raise err
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 833, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 5029, in _checker
+    with urllib.request.urlopen("https://github.com/aristocratos/bpytop/raw/master/bpytop.py", timeout=5) as source: # type: ignore
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 525, in open
+    response = meth(req, response)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 557, in error
+    result = self._call_chain(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 749, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/opt/homebrew/Cellar/python@3.10/3.10.10/Frameworks/Python.framework/Versions/3.10/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
+10/02/23 (06:34:46) | ERROR: Data collection thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/bpytop", line 2965, in _runner
+    else: Draw.out()
+  File "/opt/homebrew/bin/bpytop", line 1091, in out
+    cls.now(out)
+  File "/opt/homebrew/bin/bpytop", line 1039, in now
+    print(*args, sep="", end="", flush=True)
+OSError: [Errno 5] Input/output error

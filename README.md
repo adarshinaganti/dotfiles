@@ -1,2 +1,2 @@
 # My Linux dotfiles
-## Uploaded from Debian Sid + bspwm
+## Uploaded from Arch Linux + bspwm

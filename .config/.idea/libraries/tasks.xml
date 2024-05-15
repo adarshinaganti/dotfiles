@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tasks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JetBrains/IdeaIC2024.1/tasks/_config.contexts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JetBrains/IdeaIC2024.1/tasks/_config.tasks.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

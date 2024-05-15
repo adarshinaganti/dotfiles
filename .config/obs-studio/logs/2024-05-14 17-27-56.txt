@@ -1,0 +1,91 @@
+17:27:56.964: Using EGL/X11
+17:27:56.964: Physical Cores: 4, Logical Cores: 4
+17:27:56.964: Physical Memory: 3919MB Total, 326MB Free
+17:27:56.964: Kernel Version: Linux 6.7.12-arm64
+17:27:56.964: Distribution: "Debian GNU/Linux" Unknown
+17:27:56.964: Desktop Environment: bspwm
+17:27:56.964: Session Type: x11
+17:27:56.964: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:27:56.965: Qt Version: 6.4.2 (runtime), 6.4.2 (compiled)
+17:27:56.965: Portable mode: false
+17:27:57.017: OBS 30.1.2.1-1 (linux)
+17:27:57.017: ---------------------------------
+17:27:57.017: ---------------------------------
+17:27:57.017: audio settings reset:
+17:27:57.017: 	samples per sec: 48000
+17:27:57.017: 	speakers:        2
+17:27:57.017: 	max buffering:   960 milliseconds
+17:27:57.017: 	buffering type:  dynamically increasing
+17:27:57.018: ---------------------------------
+17:27:57.018: Initializing OpenGL...
+17:27:57.101: Loading up OpenGL on adapter Mesa virgl (Apple M1 (Compat))
+17:27:57.102: OpenGL loaded successfully, version 4.0 (Core Profile) Mesa 24.0.7-1, shading language 4.00
+17:27:57.190: ---------------------------------
+17:27:57.190: video settings reset:
+17:27:57.190: 	base resolution:   1920x1080
+17:27:57.190: 	output resolution: 1280x720
+17:27:57.190: 	downscale filter:  Bicubic
+17:27:57.190: 	fps:               30/1
+17:27:57.190: 	format:            NV12
+17:27:57.190: 	YUV mode:          Rec. 709/Partial
+17:27:57.191: NV12 texture support not available
+17:27:57.191: P010 texture support not available
+17:27:57.196: Audio monitoring device:
+17:27:57.196: 	name: Default
+17:27:57.196: 	id: default
+17:27:57.196: ---------------------------------
+17:27:57.201: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:27:57.204: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:27:57.208: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:27:57.208: Failed to initialize module 'decklink.so'
+17:27:57.291: [pipewire] No captures available
+17:27:57.303: v4l2loopback not installed, virtual camera disabled
+17:27:57.439: VAAPI: API version 1.21
+17:27:57.439: FFmpeg VAAPI H264 encoding not supported
+17:27:57.442: FFmpeg VAAPI AV1 encoding not supported
+17:27:57.444: FFmpeg VAAPI HEVC encoding not supported
+17:27:57.474: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.4.2 | RPC Version: 1)
+17:27:57.474: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.2 | Qt version (run-time): 6.4.2
+17:27:57.474: [obs-websocket] [obs_module_load] Linked ASIO Version: 102801
+17:27:57.474: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+17:27:57.480: [obs-websocket] [obs_module_load] Module loaded.
+17:27:57.501: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+17:27:57.501: ---------------------------------
+17:27:57.501:   Loaded Modules:
+17:27:57.501:     vlc-video.so
+17:27:57.501:     text-freetype2.so
+17:27:57.501:     rtmp-services.so
+17:27:57.501:     obs-x264.so
+17:27:57.501:     obs-websocket.so
+17:27:57.501:     obs-transitions.so
+17:27:57.501:     obs-outputs.so
+17:27:57.501:     obs-filters.so
+17:27:57.501:     obs-ffmpeg.so
+17:27:57.501:     linux-v4l2.so
+17:27:57.501:     linux-pulseaudio.so
+17:27:57.501:     linux-pipewire.so
+17:27:57.501:     linux-jack.so
+17:27:57.501:     linux-capture.so
+17:27:57.501:     linux-alsa.so
+17:27:57.501:     image-source.so
+17:27:57.501:     frontend-tools.so
+17:27:57.501:     decklink-output-ui.so
+17:27:57.501:     decklink-captions.so
+17:27:57.501: ---------------------------------
+17:27:57.502: ==== Startup complete ===============================================
+17:27:57.506: No scene file found, creating default scene
+17:27:57.551: All scene data cleared
+17:27:57.551: ------------------------------------------------
+17:27:57.561: pulse-input: Server name: 'pulseaudio 16.1'
+17:27:57.561: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+17:27:57.561: pulse-input: Started recording from 'alsa_output.platform-2300000.pci-pci-0000_00_01.0.analog-stereo.monitor' (default)
+17:27:57.620: pulse-input: Server name: 'pulseaudio 16.1'
+17:27:57.629: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+17:27:57.629: pulse-input: Started recording from 'alsa_input.platform-2300000.pci-pci-0000_00_01.0.analog-stereo' (default)
+17:27:57.632: Switched to scene 'Scene'
+17:27:57.633: Failed to glob scene collections
+17:27:58.212: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+17:27:58.212: 
+17:28:03.493: [rtmp-services plugin] Successfully updated file 'services.json' (version 251)
+17:28:03.494: [rtmp-services plugin] Successfully updated package (version 251)
+18:41:44.563: The X11 connection broke (error 1). Did the X11 server die?

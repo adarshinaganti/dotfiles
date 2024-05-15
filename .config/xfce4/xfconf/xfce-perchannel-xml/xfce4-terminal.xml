@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="font-name" type="string" value="Iosevka Nerd Font 12"/>
+  <property name="text-blink-mode" type="string" value="TERMINAL_TEXT_BLINK_MODE_NEVER"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+</channel>
